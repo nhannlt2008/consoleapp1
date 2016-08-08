@@ -4,6 +4,7 @@ using namespace std;
 
 int main(int argc, char *argv[])
 {
-    cout << "Hi!" << endl;
+    int c=1;
+    cout << "Hi!" << endl << c << endl;
     return 0;
 }
